@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VCExercise5/VCExercise5.vcxproj" Id="c3e6fe28-180c-4455-a43e-5c5438218bd7" />
+</Solution>
